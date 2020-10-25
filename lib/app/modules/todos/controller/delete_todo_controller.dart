@@ -1,7 +1,7 @@
 import 'package:injectable/injectable.dart';
-import 'package:todo_api/app/modules/todos/service/i_todos_service.dart';
 
 import '../../../../todo_api.dart';
+import '../service/i_todos_service.dart';
 
 @Injectable()
 class DeleteTodoController extends ResourceController {

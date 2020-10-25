@@ -1,4 +1,4 @@
-import 'package:todo_api/app/modules/todos/todos_routes.dart';
+import '../modules/todos/todos_routes.dart';
 
 import '../../todo_api.dart';
 import '../modules/users/users_routes.dart';
